@@ -18,6 +18,10 @@ This GIT repository contains a playpen used to capture some ICS examples to inte
 - S2VIIA_SC_GETCONTA_INT - Example on how to retrieve Contacts in Sales Cloud 
 - TheCastle_s2viia_sc_getAContact_int - Example on how to retrieve a specific Contact in Sales Cloud 
 
+<h2>Service Cloud (RightNow)</h2>
+
+- CRI_REST2SV_GETALLIN_INT4 - Example on how to retrieve all Incidents in Service Cloud using ROQL
+
 
 <h2>SaaS 2 SaaS</h2>
 
